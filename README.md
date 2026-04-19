@@ -1,6 +1,6 @@
 ## 当前仓库配置地址
 ```bash
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/ol/main/all.json
+https://ghp.ci/https://raw.githubusercontent.com/hohao234/abc/refs/heads/main/all.json
 https://raw.yzuu.cf/fish2018/ol/main/all.json
 https://fastly.jsdelivr.net/gh/fish2018/ol/all.json
 ```
@@ -109,8 +109,8 @@ docker run --rm -e repo=ol -e mirror=2 -e jar_suffix=css -e token=XXX -e usernam
 
 #################影视仓APP配置接口########################
 
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/all.json
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/tvbox.json
+https://gitdl.cn/https://raw.githubusercontent.com/hohao234/abc/refs/heads/main/all.json
+https://gitdl.cn/https://raw.githubusercontent.com/hohao234/abc/refs/heads/main/tvbox.json
 
 ```
   
