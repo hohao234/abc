@@ -1,6 +1,6 @@
 
 {
-  "spider":"https://boyx.de5.net/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
+  "spider":"https://boyx.de5.net/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.txt",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
   "sites":[
@@ -13,7 +13,8 @@
     {"key": "csp_Lgyy","name": "蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "csp_Zjdr","name": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "csp_Zjdr","name
+    ": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Nkdy","name": "南柯","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
