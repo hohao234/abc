@@ -1,5 +1,5 @@
 {
-	"spider":"http://192.168.0.109:5555/OL/jar/月光.js",
+	"spider":"./jar/月光.js",
 	"sites":[
 		{
             "key": "js豆瓣1",

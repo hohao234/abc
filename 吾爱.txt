@@ -5,7 +5,7 @@
 
 
 
-{"key": "运动","name": "💜吾爱运动 | 公众号 吾爱电视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/175220/%E5%90%BE%E7%88%B1%E8%BF%90%E5%8A%A8.json?sign=oYzKNaZqBSUOi2qPuBFL9yOUTBTaGyaaFZGRY-_zzgE%3D%3A0","spider":"http://192.168.0.109:5555/OL/jar/吾爱.js"},
+{"key": "运动","name": "💜吾爱运动 | 公众号 吾爱电视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/175220/%E5%90%BE%E7%88%B1%E8%BF%90%E5%8A%A8.json?sign=oYzKNaZqBSUOi2qPuBFL9yOUTBTaGyaaFZGRY-_zzgE%3D%3A0","spider":"./jar/吾爱.js"},
 
 
   {

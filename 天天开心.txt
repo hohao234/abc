@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //
 {
-	"spider": "http://192.168.0.109:5555/OL/jar/天天开心.js",
+	"spider": "./jar/天天开心.js",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo": "http://php.540734621.xyz/logo/logo.php",
 	"lives": [{

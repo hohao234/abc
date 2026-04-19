@@ -1,5 +1,5 @@
 {
-  "spider": "http://192.168.0.109:5555/OL/jar/盒子迷.js",
+  "spider": "./jar/盒子迷.js",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {

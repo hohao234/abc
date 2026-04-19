@@ -12,7 +12,7 @@
 {
 ## 
  
- "spider": "http://192.168.0.109:5555/OL/jar/小马.js",
+ "spider": "./jar/小马.js",
 "logo": "https://wp.szyyds.cn/f/6djcP/logo.jpg",
 
   

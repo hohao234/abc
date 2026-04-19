@@ -1,5 +1,5 @@
 {
-   "spider": "http://192.168.0.109:5555/OL/jar/肥猫.js",
+   "spider": "./jar/肥猫.js",
    "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
    "logo": "https://like.xn--z7x900a.com/panda/0262.png",
    "sites": [

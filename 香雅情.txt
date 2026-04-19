@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "http://192.168.0.109:5555/OL/jar/香雅情.js",
+    "spider": "./jar/香雅情.js",
     "lives": [
         {
           "name": "本地live文件",

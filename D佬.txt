@@ -1,5 +1,5 @@
 {
-  "spider": "http://192.168.0.109:5555/OL/jar/D佬.js",
+  "spider": "./jar/D佬.js",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
 "logo": "http://rihou.cc:567/1.gif",
   "lives":[

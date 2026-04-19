@@ -1,4 +1,4 @@
-{"spider":"http://192.168.0.109:5555/OL/jar/荷城茶秀.js",
+{"spider":"./jar/荷城茶秀.js",
 
 "wallpaper":"http://我不是.肥猫.love:63/ppic/feimao.php",
 

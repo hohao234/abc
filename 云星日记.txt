@@ -1,5 +1,5 @@
 {
-    "spider": "http://192.168.0.109:5555/OL/jar/云星日记.js",
+    "spider": "./jar/云星日记.js",
     "warningText": "接口由公众号【科技云星】免费提供",
     "wallpaper": "http://itvbox.cc/壁纸/api.php",
     "logo":"http://itvbox.cc/云星日记.jpg",

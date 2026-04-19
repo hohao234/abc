@@ -1,5 +1,5 @@
 {
-  "spider": "http://192.168.0.109:5555/OL/jar/俊佬.js",
+  "spider": "./jar/俊佬.js",
   "lives": [
     {
       "name": "直播",
