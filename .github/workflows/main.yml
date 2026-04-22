@@ -1,0 +1,32 @@
+name: IPTV Traffic Speedtest
+
+on:
+  schedule:
+    - cron: '0 16 * * *' 
+  workflow_dispatch:      
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4 # 修正了之前的 actions/checkout 误写
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests urllib3
+
+      - name: Run Speedtest
+        run: python -u jar/traffic_test.py # -u 保证日志实时输出
+
+      - name: Commit and Push Report
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add jar/traffic_report.txt jar/traffic_summary.json
+          git commit -m "📊 Update traffic report [$(date '+%Y-%m-%d %H:%M')]" || exit 0
+          git push
