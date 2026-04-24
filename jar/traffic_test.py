@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 配置
-SOURCE_URL = "https://spider.rer.de5.net/sub?sZXPG49v=m3u"
+SOURCE_URL = "https://epg.indevs.in/m3u"
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_TXT = os.path.join(CURRENT_DIR, "traffic_report.txt")
 OUTPUT_JSON = os.path.join(CURRENT_DIR, "traffic_summary.json")
